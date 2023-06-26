@@ -1,5 +1,12 @@
 # Saudações, me chamo Diogo
-## Bem vindo(a) a meu perfil no GitHub
+## Bem vindo(a) a meu perfil no GitHub 
+
+👨‍🎓 Sou formado em Análise e desenvolvimento de Sistemas e pós graduando em Projeto de Aplicações Móveis
+
+## Ferramentas e Tecnologias 
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height=40 />
+          
 <!--
 **diogomoraisf/diogomoraisf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

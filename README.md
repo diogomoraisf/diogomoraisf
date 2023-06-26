@@ -11,7 +11,8 @@
 
 ## Estou aprendendo 
          
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
+                  
 <!--
 **diogomoraisf/diogomoraisf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -5,7 +5,13 @@
 
 ## Ferramentas e Tecnologias 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height=40 />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="40"/>
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+
+## Estou aprendendo 
+          
           
 <!--
 **diogomoraisf/diogomoraisf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

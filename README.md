@@ -69,12 +69,9 @@
 
 ###
 
-[![](https://img.shields.io/badge/-📝%20Metodo%20SEC-000)](https://github.com/adamalston/SQL-Injection)
-[![](https://img.shields.io/badge/-⚽%20FutHinos-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-⚖️%20SóMedidaS-000)](https://github.com/adamalston/Summarizer)
-[Método SEC](https://github.com/vuejs/vue) 
-[FutHinos](https://github.com/vuejs/vue) 
-[SómedidaS](https://github.com/vuejs/vue)
+[![](https://img.shields.io/badge/-📝%20Metodo%20SEC-000)](https://github.com/diogomoraisf/consultor_app)
+[![](https://img.shields.io/badge/-⚽%20FutHinos-000)](https://github.com/diogomoraisf/FutHino)
+[![](https://img.shields.io/badge/-⚖️%20SóMedidaS-000)](https://github.com/diogomoraisf/somedidas)
 
 ###
 

@@ -70,7 +70,7 @@
 ###
 
 [![](https://img.shields.io/badge/-📝%20Metodo%20SEC-000)](https://github.com/diogomoraisf/consultor_app)
-[![](https://img.shields.io/badge/-⚽%20FutHinos-000)](https://github.com/diogomoraisf/FutHino)
+[![](https://img.shields.io/badge/-⚽%20FutHinos-000)](https://github.com/diogomoraisf/futhinos_v3)
 [![](https://img.shields.io/badge/-⚖️%20SóMedidaS-000)](https://github.com/diogomoraisf/somedidas)
 
 ###
